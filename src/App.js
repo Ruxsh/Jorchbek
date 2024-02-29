@@ -8,6 +8,7 @@ function App() {
         <h1> Assalomu alaykum  hayr</h1>
         <h1> Assalomu alaykum </h1>
         <h1> Assalomu alaykum </h1>
+        <h1>Good bye</h1>
         <h1> Assalomu alaykum </h1>
         <h1> Assalomu alaykum </h1>
         <img src={logo} className="App-logo" alt="logo" />
